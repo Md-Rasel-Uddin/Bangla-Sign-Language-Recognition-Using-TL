@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Daddy</folder>
+	<filename>_dad_8_.jpg</filename>
+	<path>M:\Research\Sign Recognition\Dataset-20211204T081301Z-001\Dataset\Train\Selected\Daddy\_dad_8_.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>528</width>
+		<height>449</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>2</ymin>
+			<xmax>343</xmax>
+			<ymax>163</ymax>
+		</bndbox>
+	</object>
+</annotation>

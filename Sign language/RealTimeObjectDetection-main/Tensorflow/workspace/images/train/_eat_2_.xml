@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Eat</folder>
+	<filename>_eat_2_.jpg</filename>
+	<path>M:\Research\Sign Recognition\Dataset-20211204T081301Z-001\Dataset\Train\Selected\Eat\_eat_2_.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>443</width>
+		<height>494</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>eat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>124</xmin>
+			<ymin>112</ymin>
+			<xmax>232</xmax>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+</annotation>
